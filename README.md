@@ -1,2 +1,2 @@
 # grokking_algorithms
-Grokking algorithms examples using F#
+Grokking algorithms examples using F# and OCaml
